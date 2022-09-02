@@ -7,9 +7,6 @@
       <sshConfig host="80.240.26.60" id="71738f1e-986a-45a5-bb0a-c0cee103a42e" keyPath="$USER_HOME$/.ssh/id_rsa_forge" port="22" customName="Insider forge@80.240.26.60:22 key" nameFormat="CUSTOM" username="forge">
         <option name="customName" value="Insider forge@80.240.26.60:22 key" />
       </sshConfig>
-      <sshConfig host="140.82.35.55" id="e910f959-29ff-446c-b01f-071f8686f25c" keyPath="$USER_HOME$/.ssh/id_rsa_forge" port="22" customName="ITS demka@140.82.35.55:22 key" nameFormat="CUSTOM" username="forge">
-        <option name="customName" value="ITS demka@140.82.35.55:22 key" />
-      </sshConfig>
     </configs>
   </component>
 </application>
